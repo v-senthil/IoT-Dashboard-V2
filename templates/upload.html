@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block title %}
+Upload File
+{% endblock title %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+      <div class="col">
+        <h1 style="color:#456AD8;">Upload File</h1>
+        <hr>
+        <form action="/upload" method="POST" enctype="multipart/form-data">
+          <div class="form-group">
+            <label style="color:#456AD8;">Select File</label>
+            <div class="custom-file">
+              <input type="file" class="custom-file-input" name="image" id="image">
+              <label class="custom-file-label" for="image">Select file...</label>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-info">Upload</button>
+        </form>
+        <div><p style="color: green;">{{file_success}} </p></div>
+      </div>
+    </div>
+  </div>
+
+{% endblock content %}

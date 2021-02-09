@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>RAZER - Login</title>
+    <link rel="shortcut icon" href="/static/img/bot.png" />
+    <link rel="icon" type="image/jpeg" sizes="60x60" href="/static/img/avatars/avatar3.jpeg">
+    <link rel="icon" type="image/jpeg" sizes="60x60" href="/static/img/avatars/avatar3.jpeg">
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <style>
+        body,html {
+            background-image: url('/static/img/logic-back.jpg');
+            height: 100%;
+        }
+        
+        #profile-img {
+            height:180px;
+        }
+        .h-80 {
+            height: 80% !important;
+        }
+    </style>
+</head>
+<audio src="/static/music/welcome-razer.mp3" autoplay></audio>
+<div class="container h-80">
+    <div class="row align-items-center h-100">
+        <div class="col-3 mx-auto">
+            <div class="text-center">
+                <img id="profile-img" class="rounded-circle profile-img-card" src="/static/img/login.png" />
+                <p id="profile-name" class="profile-name-card"></p>
+                <form  action="/login" method="post" class="form-signin">
+                    <br>
+                    <input type="text" name="username" id="inputText" class="form-control form-group" placeholder="Username" value="Admin" required autofocus>
+                    <input type="password" name="password" id="inputPassword" class="form-control form-group" placeholder="Password" value="admin" required autofocus>
+                    <input type="password" name="api" id="inputPassword" class="form-control form-group" placeholder="API key" required autofocus>
+                    <br>
+                    <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Go to RAZER</button>
+                </form>
+                <div class="form-group"><p style="color: red;">{{error}} </p></div>
+                <div class="form-group"><p style="color:white;">{{log}} </p></div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js"></script>
+    <script src="/static/js/script.min.js"></script>
+</body>
+
+</html>

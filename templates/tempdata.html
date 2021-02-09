@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block title %}
+Temperature Data
+{% endblock title %}
+
+
+{% block content %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<div class="container" >
+    <div style="margin-top: 5%">
+      <strong>Showing all records</strong>
+      <h2>Temperatures</h2>
+      <table class="table table-stripped  lastdatavalue">
+        <thead style="display:block;">
+          <tr>
+            <th>Date</th>
+            <th> &deg;C</th>
+          </tr>
+        </thead>
+        <tbody style="height:600px; overflow:scroll; display:block;">
+          <div id ="latestData">
+          {% for row in tempdata %}
+          <tr>
+            <td >{{row[0]}}</td>
+            <td >{{'%0.2f'|format(row[1])}}</td>
+          </tr>
+          {% endfor %}
+        </div>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+
+  <script type="text/javascript">
+    setInterval("my_function();",1000); 
+    function my_function(){
+      $('#refresh').load(location.href + ' #refresh');
+    }
+</script>
+
+{% endblock content %}

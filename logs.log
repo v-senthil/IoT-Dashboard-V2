@@ -1,0 +1,416 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 222-310-895
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:17:54] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+IDEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+127.0.0.1 - - [17/Jan/2021 00:18:23] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:24] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:25] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:26] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:27] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:28] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:29] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:31] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:32] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:33] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:34] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:35] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:36] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:37] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:38] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:39] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:40] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:40] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:40] "[37mGET /static/img/bot.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:41] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:42] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:42] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:44] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:45] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:46] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:47] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:48] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:49] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:50] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:50] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:52] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:52] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:54] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:54] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:56] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:57] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:58] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:18:59] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:00] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:01] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:02] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:03] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:04] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:05] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:06] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:07] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:08] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:09] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:10] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:10] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:12] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:12] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:12] "[37mGET /static/img/bot.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:12] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:13] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:13] "[37mGET /static/js/script.min.js?_=1610822952306 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:14] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:14] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:14] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:15] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:15] "[37mGET /static/js/script.min.js?_=1610822954683 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:15] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:15] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:15] "[37mGET /static/js/script.min.js?_=1610822954695 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:15] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:16] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:16] "[37mGET /static/js/script.min.js?_=1610822954707 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:16] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:16] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:16] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:16] "[37mGET /static/js/script.min.js?_=1610822956303 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:16] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[37mGET /static/js/script.min.js?_=1610822956315 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[37mGET /static/js/script.min.js?_=1610822956587 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:17] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:18] "[37mGET /static/js/script.min.js?_=1610822956693 HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:18] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:18] "[37mGET /static/js/script.min.js?_=1610822956705 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:18] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:18] "[37mGET /static/js/script.min.js?_=1610822956717 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:18] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:19] "[37mGET /static/js/script.min.js?_=1610822956729 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:19] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:19] "[37mGET /static/js/script.min.js?_=1610822956741 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:19] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:20] "[37mGET /static/js/script.min.js?_=1610822956753 HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:20] "[37mGET /static/js/script.min.js?_=1610822958154 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:20] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:20] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:20] "[37mGET /static/js/script.min.js?_=1610822958166 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:21] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:21] "[37mGET /static/js/script.min.js?_=1610822958178 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:21] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:21] "[37mGET /static/js/script.min.js?_=1610822958190 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:22] "[37mGET /static/js/script.min.js?_=1610822958202 HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:22] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:22] "[37mGET /static/js/script.min.js?_=1610822958214 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:22] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:22] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:23] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:23] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:23] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:24] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:24] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:24] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:25] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:25] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:25] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:26] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:26] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:26] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:27] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:27] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:28] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:28] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:28] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:29] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:29] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:29] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:30] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:31] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:31] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:31] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:31] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:31] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:31] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:32] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:32] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:32] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:32] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:32] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:32] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:33] "[37mGET /static/js/script.min.js?_=1610822961675 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:33] "[37mGET /static/js/script.min.js?_=1610822961687 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:33] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:33] "[37mGET /static/js/script.min.js?_=1610822962084 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:34] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:34] "[37mGET /static/js/script.min.js?_=1610822962096 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:34] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:34] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:34] "[37mGET /static/js/script.min.js?_=1610822962108 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:35] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:35] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:35] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:35] "[37mGET /static/js/script.min.js?_=1610822962120 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:36] "[37mGET /static/js/script.min.js?_=1610822962132 HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:36] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:36] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:36] "[37mGET /static/js/script.min.js?_=1610822962144 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:36] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:37] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:37] "[37mGET /static/js/script.min.js?_=1610822962156 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:37] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:37] "[37mGET /static/js/script.min.js?_=1610822962168 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:37] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:38] "[37mGET /static/js/script.min.js?_=1610822962180 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:38] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:39] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:39] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:39] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:39] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:39] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:40] "[37mGET /static/img/bot.png HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:40] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:41] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:41] "[37mGET /static/js/script.min.js?_=1610822979943 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:42] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:42] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:42] "[37mGET /static/js/script.min.js?_=1610822979955 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:43] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:43] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:43] "[37mGET /static/js/script.min.js?_=1610822983035 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:43] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:43] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:44] "[37mGET /static/js/script.min.js?_=1610822983047 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:44] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:44] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:44] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:44] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:44] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:45] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:45] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:45] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:45] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:45] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:46] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:46] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:46] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:46] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:46] "[37mGET /static/js/script.min.js?_=1610822985976 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:46] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:46] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:47] "[37mGET /static/js/script.min.js?_=1610822985988 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:47] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:47] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:47] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:47] "[37mGET /static/js/script.min.js?_=1610822986000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:47] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:47] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:48] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:48] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:48] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:49] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:49] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Flask-Projects\\R A Z E R\\app.py', reloading
+INFO:werkzeug: * Detected change in 'd:\\Flask-Projects\\R A Z E R\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:49] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'd:\\Flask-Projects\\R A Z E R\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:50] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:50] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:50] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:50] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:51] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:51] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:51] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:52] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:52] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:52] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:53] "[37mGET /static/js/script.min.js?_=1610822988232 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:53] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:53] "[37mGET /static/js/script.min.js?_=1610822988244 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:53] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:53] "[37mGET /static/js/script.min.js?_=1610822988256 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:53] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:54] "[37mGET /static/js/script.min.js?_=1610822988268 HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:54] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:54] "[37mGET /static/js/script.min.js?_=1610822988280 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:54] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:55] "[37mGET /static/js/script.min.js?_=1610822988292 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:55] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:55] "[37mGET /static/js/script.min.js?_=1610822988304 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:55] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:55] "[37mGET /static/js/script.min.js?_=1610822988316 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:56] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:56] "[37mGET /static/js/script.min.js?_=1610822988328 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:56] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:56] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:57] "[37mGET /static/js/script.min.js?_=1610822988340 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:57] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:57] "[37mGET /static/js/script.min.js?_=1610822988352 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:57] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:58] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:58] "[37mGET /static/js/script.min.js?_=1610822989263 HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:58] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:59] "[37mGET /static/js/script.min.js?_=1610822989275 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:59] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:59] "[37mGET /static/js/script.min.js?_=1610822989287 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:59] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:19:59] "[37mGET /static/js/script.min.js?_=1610822989299 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:00] "[37mGET /static/js/script.min.js?_=1610822989311 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:00] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:00] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:01] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:01] "[37mGET /static/js/script.min.js?_=1610822989323 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:01] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:01] "[37mGET /static/js/script.min.js?_=1610822989335 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:01] "[37mGET /static/js/script.min.js?_=1610822989347 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:02] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:02] "[37mGET /static/js/script.min.js?_=1610822989359 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:02] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:02] "[37mGET /static/js/script.min.js?_=1610822989371 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:02] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:03] "[33mGET /manifest.json HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:03] "[37mGET /static/js/script.min.js?_=1610822989383 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:03] "[37mGET /static/js/script.min.js?_=1610822989395 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:03] "[37mGET /static/js/script.min.js?_=1610822989407 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:03] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:04] "[37mGET /static/js/script.min.js?_=1610822989419 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:04] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:04] "[37mGET /static/js/script.min.js?_=1610822989431 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:04] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:04] "[37mGET /static/js/script.min.js?_=1610822989443 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:05] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:05] "[37mGET /static/js/script.min.js?_=1610822989455 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:05] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:05] "[37mGET /static/js/script.min.js?_=1610822989467 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:05] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:06] "[37mGET /static/js/script.min.js?_=1610822989479 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:06] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:06] "[37mGET /static/js/script.min.js?_=1610822989491 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2021 00:20:06] "[37mGET /dashboard HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:https://arms-293520.firebaseio.com:443 "PUT /.json HTTP/1.1" 200 103

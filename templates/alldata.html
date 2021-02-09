@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+{% block title %}
+Database
+{% endblock title %}
+
+{% block style %}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+{% endblock style %}
+
+{% block content %}
+
+<div class="container mb-3 mt-3">
+    <table class="table table-stripped table-bordered lastdatavalue" style="width: 100%" id="lastdatavalue">
+        <thead>
+        <tr>
+            <h2 colspan="1">Last Sensor Value</h2>
+        </tr>
+        <tr>
+            <th>Time Stamp</th>
+            <th>Temperature</th>
+            <th>Humidity</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>{{rows[0][0]}}</td>
+            <td>{{rows[0][1]}}</td>
+            <td>{{rows[0][2]}}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<br><br>
+
+<div class="container mb-3 mt-3" >
+    <table class="table table-stripped table-bordered mydatatable" style="width: 100%" id="mydatatable">
+        <tr>
+            <h2 colspan="1">All Sensor Value</h2>
+        </tr>
+        <tr>
+            <th>Time Stamp</th>
+            <th>Temperature</th>
+            <th>Humidity</th>
+        </tr>
+        {% for row in rows %}
+        <tr>
+            <td>{{row[0]}}</td>
+            <td>{{row[1]}}</td>
+            <td>{{row[2]}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js"></script>
+<script>
+
+    $('.lastdatavalue').DataTable({
+        searching: false,
+        ordering: false,
+        paging: false,
+        createdRow: function(row,data,index){
+            if(data[1].replace(/[\$,]/g, '')*1 > 30 ){
+                $('td',row).eq(1).addClass('text-danger');
+            }
+            else if(data[2].replace(/[\$,]/g, '')*1 > 30){
+                $('td',row).eq(2).addClass('text-danger');
+            }
+            else{
+                $('td',row).addClass('text-success');
+            }
+        }
+    });
+
+</script>
+
+
+
+
+{% endblock content %}

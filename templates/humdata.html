@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% block title %}
+Humidity Data
+{% endblock title %}
+
+{% block style %}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+{% endblock style %}
+
+{% block content %}
+
+
+<div class="container" id="latestData">
+    <div style="margin-top: 5%">
+      <strong>Showing all records</strong>
+      <h2>Humidity</h2>
+      <table class="table table-stripped  lastdatavalue">
+        <thead style="display:block;">
+          <tr>
+            <th>Date</th>
+            <th> % </th>
+          </tr>
+        </thead>
+        <tbody style="height:450px; overflow:scroll; display:block;">
+          {% for row in humdata %}
+          <tr>
+            <td>{{row[0]}}</td>
+            <td>{{'%0.2f'|format(row[1])}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    setTimeout(() => {
+        window.location.reload(true);
+    },2000);
+</script>
+
+{% endblock content %}

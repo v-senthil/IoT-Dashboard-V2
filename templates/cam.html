@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %}
+Camera
+{% endblock title %}
+
+{% block style %}
+<style>
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+{% endblock style %}
+
+{% block content %}
+
+
+<img class="center" src="{{ url_for('video_feed') }}" width="1200" height="800" >
+
+
+{% endblock content %}
